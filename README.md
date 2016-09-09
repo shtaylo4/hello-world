@@ -1,2 +1,4 @@
 # hello-world
-for the test
+
+Hi!
+Just trying to figure out this darn thing.
